@@ -1,0 +1,396 @@
+school,sex,age,address,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G1,G2,G3
+KV,F,18,City,GT3,A,4,4,Homemaker,Teacher,course,mother,2,2,0,yes,no,no,no,yes,yes,no,no,4,3,4,1,1,3,6,5,6,6
+KV,F,17,City,GT3,T,1,1,Homemaker,Farmer,course,father,1,2,0,no,yes,no,no,no,yes,yes,no,5,3,3,1,1,3,4,5,5,6
+KV,F,15,City,LE3,T,1,1,Homemaker,Farmer,other,mother,1,2,3,yes,no,yes,no,yes,yes,yes,no,4,3,2,2,3,3,10,7,8,10
+KV,F,15,City,GT3,T,4,2,Doctor,Government Service,home,mother,1,3,0,no,yes,yes,yes,yes,yes,yes,yes,3,2,2,1,1,5,2,15,14,15
+KV,F,16,City,GT3,T,3,3,Farmer,Farmer,home,father,1,2,0,no,yes,yes,no,yes,yes,no,no,4,3,2,1,2,5,4,6,10,10
+KV,M,16,City,LE3,T,4,3,Government Service,Farmer,reputation,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,no,5,4,2,1,2,5,10,15,15,15
+KV,M,16,City,LE3,T,2,2,Farmer,Farmer,home,mother,1,2,0,no,no,no,no,yes,yes,yes,no,4,4,4,1,1,3,0,12,12,11
+KV,F,17,City,GT3,A,4,4,Farmer,Teacher,home,mother,2,2,0,yes,yes,no,no,yes,yes,no,no,4,1,4,1,1,1,6,6,5,6
+KV,M,15,City,LE3,A,3,2,Government Service,Farmer,home,mother,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,1,1,1,0,16,18,19
+KV,M,15,City,GT3,T,3,4,Farmer,Farmer,home,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,no,5,5,1,1,1,5,0,14,15,15
+KV,F,15,City,GT3,T,4,4,Teacher,Doctor,reputation,mother,1,2,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,1,2,2,0,10,8,9
+KV,F,15,City,GT3,T,2,1,Government Service,Farmer,reputation,father,3,3,0,no,yes,no,yes,yes,yes,yes,no,5,2,2,1,1,4,4,10,12,12
+KV,M,15,City,LE3,T,4,4,Doctor,Government Service,course,father,1,1,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,3,5,2,14,14,14
+KV,M,15,City,GT3,T,4,3,Teacher,Farmer,course,mother,2,2,0,no,yes,yes,no,yes,yes,yes,no,5,4,3,1,2,3,2,10,10,11
+KV,M,15,City,GT3,A,2,2,Farmer,Farmer,home,other,1,3,0,no,yes,no,no,yes,yes,yes,yes,4,5,2,1,1,3,0,14,16,16
+KV,F,16,City,GT3,T,4,4,Doctor,Farmer,home,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,4,4,4,1,2,2,4,14,14,14
+KV,F,16,City,GT3,T,4,4,Government Service,Government Service,reputation,mother,1,3,0,no,yes,yes,yes,yes,yes,yes,no,3,2,3,1,2,2,6,13,14,14
+KV,F,16,City,GT3,T,3,3,Farmer,Farmer,reputation,mother,3,2,0,yes,yes,no,yes,yes,yes,no,no,5,3,2,1,1,4,4,8,10,10
+KV,M,17,City,GT3,T,3,2,Government Service,Government Service,course,mother,1,1,3,no,yes,no,yes,yes,yes,yes,no,5,5,5,2,4,5,16,6,5,5
+KV,M,16,City,LE3,T,4,3,Doctor,Farmer,home,father,1,1,0,no,no,yes,yes,yes,yes,yes,no,3,1,3,1,3,5,4,8,10,10
+KV,M,15,City,GT3,T,4,3,Teacher,Farmer,reputation,mother,1,2,0,no,no,no,no,yes,yes,yes,no,4,4,1,1,1,1,0,13,14,15
+KV,M,15,City,GT3,T,4,4,Doctor,Doctor,other,father,1,1,0,no,yes,yes,no,yes,yes,yes,no,5,4,2,1,1,5,0,12,15,15
+KV,M,16,City,LE3,T,4,2,Teacher,Farmer,course,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,4,5,1,1,3,5,2,15,15,16
+KV,M,16,City,LE3,T,2,2,Farmer,Farmer,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,2,4,5,0,13,13,12
+KV,F,15,Village,GT3,T,2,4,Government Service,Doctor,course,mother,1,3,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,2,1,1,5,2,10,9,8
+KV,F,16,City,GT3,T,2,2,Government Service,Government Service,home,mother,1,1,2,no,yes,yes,no,no,yes,yes,no,1,2,2,1,3,5,14,6,9,8
+KV,M,15,City,GT3,T,2,2,Farmer,Farmer,home,mother,1,1,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,1,2,5,2,12,12,11
+KV,M,15,City,GT3,T,4,2,Doctor,Government Service,other,mother,1,1,0,no,no,yes,no,yes,yes,yes,no,2,2,4,2,4,1,4,15,16,15
+KV,M,16,City,LE3,A,3,4,Government Service,Farmer,home,mother,1,2,0,yes,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,5,4,11,11,11
+KV,M,16,City,GT3,T,4,4,Teacher,Teacher,home,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,5,5,5,5,16,10,12,11
+KV,M,15,City,GT3,T,4,4,Doctor,Government Service,home,mother,1,2,0,no,yes,yes,no,no,yes,yes,no,5,4,2,3,4,5,0,9,11,12
+KV,M,15,City,GT3,T,4,4,Government Service,Government Service,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,1,1,1,5,0,17,16,17
+KV,M,15,Village,GT3,T,4,3,Teacher,Homemaker,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,4,5,2,1,1,5,0,17,16,16
+KV,M,15,City,LE3,T,3,3,Farmer,Farmer,course,mother,1,2,0,no,no,no,yes,no,yes,yes,no,5,3,2,1,1,2,0,8,10,12
+KV,M,16,City,GT3,T,3,2,Farmer,Farmer,home,mother,1,1,0,no,yes,yes,no,no,yes,yes,no,5,4,3,1,1,5,0,12,14,15
+KV,F,15,City,GT3,T,2,3,Farmer,Farmer,other,father,2,1,0,no,yes,no,yes,yes,yes,no,no,3,5,1,1,1,5,0,8,7,6
+KV,M,15,City,LE3,T,4,3,Teacher,Government Service,home,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,1,4,2,15,16,18
+KV,M,16,Village,GT3,A,4,4,Farmer,Teacher,reputation,mother,2,3,0,no,yes,no,yes,yes,yes,yes,yes,2,4,3,1,1,5,7,15,16,15
+KV,F,15,Village,GT3,T,3,4,Government Service,Doctor,course,mother,1,3,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,2,1,1,5,2,12,12,11
+KV,F,15,Village,GT3,T,2,2,Homemaker,Farmer,reputation,mother,1,1,0,yes,yes,yes,yes,yes,yes,no,no,4,3,1,1,1,2,8,14,13,13
+KV,F,16,City,LE3,T,2,2,Farmer,Farmer,home,mother,2,2,1,no,yes,no,yes,no,yes,yes,yes,3,3,3,1,2,3,25,7,10,11
+KV,M,15,City,LE3,T,4,4,Teacher,Farmer,home,other,1,1,0,no,yes,no,no,no,yes,yes,yes,5,4,3,2,4,5,8,12,12,12
+KV,M,15,City,GT3,T,4,4,Government Service,Teacher,course,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,1,5,2,19,18,18
+KV,M,15,City,GT3,T,2,2,Government Service,Government Service,course,father,1,1,0,yes,yes,no,no,yes,yes,yes,no,5,4,1,1,1,1,0,8,8,11
+KV,F,16,City,LE3,T,2,2,Farmer,Homemaker,course,father,2,2,1,yes,no,no,yes,yes,yes,yes,no,4,3,3,2,2,5,14,10,10,9
+KV,F,15,City,LE3,A,4,3,Farmer,Farmer,course,mother,1,2,0,yes,yes,yes,yes,yes,yes,yes,yes,5,2,2,1,1,5,8,8,8,6
+KV,F,16,City,LE3,A,3,3,Farmer,Government Service,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,2,3,5,1,4,3,12,11,12,11
+KV,M,16,City,GT3,T,4,3,Doctor,Government Service,reputation,mother,1,4,0,no,no,no,yes,yes,yes,yes,no,4,2,2,1,1,2,4,19,19,20
+KV,M,15,City,GT3,T,4,2,Teacher,Farmer,home,mother,1,2,0,no,yes,yes,no,yes,yes,no,no,4,3,3,2,2,5,2,15,15,14
+KV,F,15,City,GT3,T,4,4,Government Service,Teacher,other,father,1,2,1,yes,yes,no,yes,no,yes,yes,no,4,4,4,1,1,3,2,7,7,7
+KV,F,16,City,LE3,T,2,2,Government Service,Government Service,course,mother,3,2,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,2,3,4,2,12,13,13
+KV,F,15,City,LE3,T,4,2,Doctor,Farmer,other,mother,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,5,2,11,13,13
+KV,M,15,City,LE3,A,4,2,Doctor,Doctor,other,father,2,1,1,no,no,no,no,yes,yes,no,no,5,5,5,3,4,5,6,11,11,10
+KV,F,15,City,GT3,T,4,4,Government Service,Government Service,course,mother,1,1,0,yes,yes,yes,no,yes,yes,yes,no,3,3,4,2,3,5,0,8,10,11
+KV,F,15,City,LE3,A,3,3,Farmer,Farmer,other,mother,1,1,0,no,no,yes,no,yes,yes,yes,no,5,3,4,4,4,1,6,10,13,13
+KV,F,16,City,GT3,A,2,1,Farmer,Farmer,other,mother,1,2,0,no,no,yes,yes,yes,yes,yes,yes,5,3,4,1,1,2,8,8,9,10
+KV,F,15,City,GT3,A,4,3,Government Service,Government Service,reputation,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,no,4,3,2,1,1,1,0,14,15,15
+KV,M,15,City,GT3,T,4,4,Teacher,Doctor,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,no,no,3,2,2,1,1,5,4,14,15,15
+KV,M,15,City,LE3,T,1,2,Farmer,Homemaker,home,father,1,2,0,yes,yes,no,yes,yes,yes,yes,no,4,3,2,1,1,5,2,9,10,9
+KV,F,16,City,GT3,T,4,2,Government Service,Farmer,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,4,2,3,1,1,5,2,15,16,16
+KV,F,16,Village,GT3,T,4,4,Doctor,Teacher,other,mother,1,2,0,no,yes,no,yes,yes,yes,no,no,2,4,4,2,3,4,6,10,11,11
+KV,F,16,City,GT3,T,1,1,Government Service,Government Service,course,father,4,1,0,yes,yes,no,yes,no,yes,yes,yes,5,5,5,5,5,5,6,10,8,11
+KV,F,16,City,LE3,T,1,2,Farmer,Government Service,reputation,father,1,2,0,yes,no,no,yes,yes,yes,yes,no,4,4,3,1,1,1,4,8,10,9
+KV,F,16,City,GT3,T,4,3,Teacher,Doctor,home,mother,1,3,0,yes,yes,yes,yes,yes,yes,yes,no,3,4,4,2,4,4,2,10,9,9
+KV,F,15,City,LE3,T,4,3,Government Service,Government Service,reputation,father,1,2,0,yes,no,no,yes,yes,yes,yes,yes,4,4,4,2,4,2,0,10,10,10
+KV,F,16,City,LE3,T,4,3,Teacher,Government Service,course,mother,3,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,2,1,2,16,15,15
+KV,M,15,City,GT3,A,4,4,Farmer,Government Service,reputation,mother,1,4,0,no,yes,no,yes,no,yes,yes,yes,1,3,3,5,5,3,4,13,13,12
+KV,F,16,City,GT3,T,3,1,Government Service,Farmer,course,mother,1,4,0,yes,yes,yes,no,yes,yes,yes,no,4,3,3,1,2,5,4,7,7,6
+KV,F,15,Village,LE3,T,2,2,Doctor,Government Service,reputation,mother,2,2,0,yes,yes,yes,no,yes,yes,yes,no,4,1,3,1,3,4,2,8,9,8
+KV,F,15,Village,LE3,T,3,1,Farmer,Farmer,reputation,father,2,4,0,no,yes,no,no,no,yes,yes,no,4,4,2,2,3,3,12,16,16,16
+KV,M,16,City,GT3,T,3,1,Farmer,Farmer,reputation,father,2,4,0,no,yes,yes,no,yes,yes,yes,no,4,3,2,1,1,5,0,13,15,15
+KV,M,15,City,GT3,T,4,2,Farmer,Farmer,course,mother,1,4,0,no,no,no,no,yes,yes,yes,no,3,3,3,1,1,3,0,10,10,10
+KV,F,15,Village,GT3,T,1,1,Farmer,Farmer,reputation,mother,1,2,2,yes,yes,no,no,no,yes,yes,yes,3,3,4,2,4,5,2,8,6,5
+KV,M,16,City,GT3,T,3,1,Farmer,Farmer,reputation,mother,1,1,0,no,no,no,yes,yes,yes,no,no,5,3,2,2,2,5,2,12,12,14
+KV,F,16,City,GT3,T,3,3,Farmer,Government Service,home,mother,1,2,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,3,2,4,5,54,11,12,11
+KV,M,15,City,GT3,T,4,3,Teacher,Farmer,home,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,2,3,5,6,9,9,10
+KV,M,15,City,GT3,T,4,0,Teacher,Farmer,course,mother,2,4,0,no,no,no,yes,yes,yes,yes,no,3,4,3,1,1,1,8,11,11,10
+KV,F,16,City,GT3,T,2,2,Farmer,Farmer,reputation,mother,1,4,0,no,no,yes,no,yes,yes,yes,yes,5,2,3,1,3,3,0,11,11,11
+KV,M,17,City,GT3,T,2,1,Farmer,Farmer,home,mother,2,1,3,yes,yes,no,yes,yes,no,yes,no,4,5,1,1,1,3,2,8,8,10
+KV,F,16,City,GT3,T,3,4,Homemaker,Farmer,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,2,4,3,1,2,3,12,5,5,5
+KV,M,15,City,GT3,T,2,3,Farmer,Government Service,course,father,1,1,0,yes,yes,yes,yes,no,yes,yes,yes,3,2,2,1,3,3,2,10,12,12
+KV,M,15,City,GT3,T,2,3,Farmer,Farmer,home,mother,1,3,0,yes,no,yes,no,no,yes,yes,no,5,3,2,1,2,5,4,11,10,11
+KV,F,15,City,LE3,T,3,2,Government Service,Farmer,reputation,mother,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,4,4,1,1,5,10,7,6,6
+KV,M,15,City,LE3,T,2,2,Government Service,Government Service,home,mother,2,2,0,no,no,yes,yes,yes,yes,yes,no,5,3,3,1,3,4,4,15,15,15
+KV,F,15,City,GT3,T,1,1,Farmer,Farmer,home,father,1,2,0,no,yes,no,yes,no,yes,yes,no,4,3,2,2,3,4,2,9,10,10
+KV,F,15,City,GT3,T,4,4,Government Service,Government Service,reputation,father,2,2,2,no,no,yes,no,yes,yes,yes,yes,4,4,4,2,3,5,6,7,9,8
+KV,F,16,City,LE3,T,2,2,Homemaker,Farmer,course,mother,1,2,0,no,yes,no,no,yes,yes,no,no,4,3,4,1,2,2,4,8,7,6
+KV,F,15,City,GT3,T,4,2,Farmer,Farmer,reputation,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,3,1,4,13,14,14
+KV,M,16,City,GT3,T,2,2,Government Service,Farmer,reputation,father,2,2,1,no,no,yes,yes,no,yes,yes,no,4,4,2,1,1,3,12,11,10,10
+KV,M,16,City,LE3,A,4,4,Teacher,Doctor,reputation,mother,1,2,0,no,yes,no,no,yes,yes,no,no,4,1,3,3,5,5,18,8,6,7
+KV,F,16,City,GT3,T,3,3,Farmer,Farmer,home,mother,1,3,0,no,yes,yes,no,yes,yes,yes,yes,4,3,3,1,3,4,0,7,7,8
+KV,F,15,City,GT3,T,4,3,Government Service,Farmer,reputation,mother,1,1,0,no,no,yes,yes,yes,yes,yes,no,4,5,5,1,3,1,4,16,17,18
+KV,F,16,City,LE3,T,3,1,Farmer,Farmer,home,father,1,2,0,yes,yes,no,no,yes,yes,no,no,3,3,3,2,3,2,4,7,6,6
+KV,F,16,City,GT3,T,4,2,Teacher,Government Service,home,mother,2,2,0,no,yes,yes,yes,yes,yes,yes,no,5,3,3,1,1,1,0,11,10,10
+KV,M,15,City,LE3,T,2,2,Government Service,Doctor,reputation,mother,1,4,0,no,yes,no,yes,yes,yes,yes,no,4,3,4,1,1,4,6,11,13,14
+KV,F,15,Village,GT3,T,1,1,Homemaker,Farmer,home,mother,2,4,1,yes,yes,yes,yes,yes,yes,yes,no,3,1,2,1,1,1,2,7,10,10
+KV,M,16,Village,GT3,T,4,3,Government Service,Farmer,reputation,mother,2,1,0,yes,yes,no,yes,no,yes,yes,no,3,3,3,1,1,4,2,11,15,15
+KV,F,16,City,GT3,T,2,1,Farmer,Farmer,course,mother,1,2,0,no,yes,yes,no,yes,yes,no,yes,4,3,5,1,1,5,2,8,9,10
+KV,F,16,City,GT3,T,4,4,Farmer,Farmer,reputation,mother,1,1,0,no,no,no,yes,no,yes,yes,no,5,3,4,1,2,1,6,11,14,14
+KV,F,16,City,GT3,T,4,3,Farmer,Homemaker,course,mother,1,3,0,yes,yes,yes,no,yes,yes,yes,no,5,3,5,1,1,3,0,7,9,8
+KV,M,16,City,GT3,T,4,4,Government Service,Government Service,other,mother,1,1,0,yes,yes,yes,yes,yes,yes,yes,no,4,5,5,5,5,4,14,7,7,5
+KV,M,16,City,GT3,T,4,4,Government Service,Teacher,other,father,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,4,3,1,1,4,0,16,17,17
+KV,M,15,City,GT3,T,4,4,Government Service,Farmer,course,mother,1,1,0,no,yes,no,yes,no,yes,yes,no,5,3,3,1,1,5,4,10,13,14
+KV,F,15,City,GT3,T,3,2,Government Service,Farmer,home,mother,2,2,0,yes,yes,yes,no,yes,yes,yes,no,4,3,5,1,1,2,26,7,6,6
+KV,M,15,City,GT3,A,3,4,Government Service,Farmer,course,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,no,5,4,4,1,1,1,0,16,18,18
+KV,F,15,City,GT3,A,3,3,Farmer,Doctor,reputation,father,1,4,0,yes,no,no,no,yes,yes,no,no,4,3,3,1,1,4,10,10,11,11
+KV,F,15,City,GT3,T,2,2,Farmer,Farmer,course,mother,1,4,0,yes,yes,yes,no,yes,yes,yes,no,5,1,2,1,1,3,8,7,8,8
+KV,M,16,City,GT3,T,3,3,Government Service,Farmer,home,father,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,5,2,16,18,18
+KV,M,15,Village,GT3,T,4,4,Farmer,Farmer,home,father,4,4,0,no,yes,yes,yes,yes,yes,yes,yes,1,3,5,3,5,1,6,10,13,13
+KV,F,16,City,LE3,T,4,4,Doctor,Doctor,other,mother,1,3,0,no,yes,yes,yes,yes,yes,yes,yes,5,4,5,1,1,4,4,14,15,16
+KV,M,15,City,LE3,A,4,4,Teacher,Teacher,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,5,5,3,1,1,4,6,18,19,19
+KV,F,16,Village,GT3,T,3,3,Government Service,Farmer,reputation,father,1,3,1,yes,yes,no,yes,yes,yes,yes,no,4,1,2,1,1,2,0,7,10,10
+KV,F,16,City,GT3,T,2,2,Homemaker,Farmer,home,mother,1,2,1,yes,no,no,yes,yes,yes,yes,no,3,1,2,1,1,5,6,10,13,13
+KV,M,15,City,LE3,T,4,2,Teacher,Farmer,course,mother,1,1,0,no,no,no,no,yes,yes,yes,no,3,5,2,1,1,3,10,18,19,19
+KV,M,15,Village,GT3,T,2,1,Doctor,Government Service,reputation,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,4,2,1,1,5,8,9,9,9
+KV,M,16,City,GT3,T,4,4,Teacher,Teacher,course,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,1,2,5,2,15,15,16
+KV,M,15,City,GT3,T,4,4,Farmer,Teacher,reputation,father,2,2,0,no,yes,no,yes,yes,yes,no,no,4,4,3,1,1,2,2,11,13,14
+KV,M,16,City,GT3,T,3,3,Farmer,Government Service,home,father,2,1,0,no,no,no,yes,yes,yes,yes,no,5,4,2,1,1,5,0,13,14,13
+KV,M,17,Village,GT3,T,1,3,Farmer,Farmer,course,father,3,2,1,no,yes,no,yes,yes,yes,yes,no,5,2,4,1,4,5,20,9,7,8
+KV,M,15,City,GT3,T,3,4,Farmer,Farmer,reputation,father,1,1,0,no,no,no,no,yes,yes,yes,no,3,4,3,1,2,4,6,14,13,13
+KV,F,15,City,GT3,T,1,2,Homemaker,Government Service,course,mother,1,2,0,no,no,no,no,no,yes,yes,no,3,2,3,1,2,1,2,16,15,15
+KV,M,15,City,GT3,T,2,2,Government Service,Government Service,home,father,1,4,0,no,yes,yes,yes,yes,yes,yes,no,5,5,4,1,2,5,6,16,14,15
+KV,F,16,City,LE3,T,2,4,Farmer,Doctor,course,father,2,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,2,2,1,2,5,2,13,13,13
+KV,M,16,City,GT3,T,4,4,Doctor,Farmer,course,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,3,4,4,1,4,5,18,14,11,13
+KV,F,16,City,GT3,T,2,2,Farmer,Farmer,home,mother,1,2,0,no,no,yes,no,yes,yes,yes,yes,5,4,4,1,1,5,0,8,7,8
+KV,M,15,City,GT3,T,3,4,Government Service,Government Service,home,father,1,1,0,yes,no,no,no,yes,yes,yes,no,5,5,5,3,2,5,0,13,13,12
+KV,F,15,City,LE3,A,3,4,Farmer,Farmer,home,mother,1,2,0,yes,no,no,yes,yes,yes,yes,yes,5,3,2,1,1,1,0,7,10,11
+KV,F,19,City,GT3,T,0,1,Homemaker,Farmer,course,other,1,2,3,no,yes,no,no,no,no,no,no,3,4,2,1,1,5,2,7,8,9
+KV,M,18,Village,GT3,T,2,2,Government Service,Farmer,reputation,mother,1,1,2,no,yes,no,yes,yes,yes,yes,no,3,3,3,1,2,4,0,7,4,0
+KV,M,16,Village,GT3,T,4,4,Teacher,Teacher,course,mother,1,1,0,no,no,yes,yes,yes,yes,yes,no,3,5,5,2,5,4,8,18,18,18
+KV,F,15,Village,GT3,T,3,4,Government Service,Teacher,course,father,2,3,2,no,yes,no,no,yes,yes,yes,yes,4,2,2,2,2,5,0,12,0,0
+KV,F,15,City,GT3,T,1,1,Homemaker,Farmer,course,mother,3,1,0,no,yes,no,yes,no,yes,yes,yes,4,3,3,1,2,4,0,8,0,0
+KV,F,17,City,LE3,T,2,2,Farmer,Farmer,course,father,1,1,0,no,yes,no,no,yes,yes,yes,yes,3,4,4,1,3,5,12,10,13,12
+KV,F,16,City,GT3,A,3,4,Government Service,Farmer,course,father,1,1,0,no,no,no,no,yes,yes,yes,no,3,2,1,1,4,5,16,12,11,11
+KV,M,15,Village,GT3,T,3,4,Homemaker,Teacher,course,mother,4,2,0,no,yes,no,no,yes,yes,no,yes,5,3,3,1,1,5,0,9,0,0
+KV,F,15,City,GT3,T,4,4,Government Service,Homemaker,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,1,1,5,0,11,0,0
+KV,M,17,Village,GT3,T,3,4,Homemaker,Farmer,course,mother,3,2,0,no,no,no,no,yes,yes,no,no,5,4,5,2,4,5,0,10,0,0
+KV,F,16,City,GT3,A,3,3,Farmer,Farmer,course,other,2,1,2,no,yes,no,yes,no,yes,yes,yes,4,3,2,1,1,5,0,4,0,0
+KV,M,16,City,LE3,T,1,1,Government Service,Farmer,course,mother,1,2,1,no,no,no,no,yes,yes,no,yes,4,4,4,1,3,5,0,14,12,12
+KV,F,15,City,GT3,T,4,4,Teacher,Teacher,course,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,4,3,2,1,1,5,0,16,16,15
+KV,M,15,City,GT3,T,4,3,Teacher,Government Service,course,father,2,4,0,yes,yes,no,no,yes,yes,yes,no,2,2,2,1,1,3,0,7,9,0
+KV,M,16,City,LE3,T,2,2,Government Service,Government Service,reputation,father,2,1,2,no,yes,no,yes,yes,yes,yes,no,2,3,3,2,2,2,8,9,9,9
+KV,F,15,City,GT3,T,4,4,Teacher,Government Service,course,mother,1,3,0,no,yes,yes,yes,yes,yes,yes,no,4,2,2,1,1,5,2,9,11,11
+KV,F,16,City,LE3,T,1,1,Homemaker,Homemaker,course,mother,1,1,0,no,no,no,no,yes,yes,yes,no,3,4,4,3,3,1,2,14,14,13
+KV,M,17,City,GT3,T,2,1,Farmer,Farmer,home,mother,1,1,3,no,yes,no,no,yes,yes,yes,no,5,4,5,1,2,5,0,5,0,0
+KV,F,15,City,GT3,T,1,1,Farmer,Government Service,course,father,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,4,2,1,2,5,0,8,11,11
+KV,F,15,City,GT3,T,3,2,Doctor,Government Service,home,father,1,2,3,no,yes,no,no,yes,yes,yes,no,3,3,2,1,1,3,0,6,7,0
+KV,F,15,City,GT3,T,1,2,Homemaker,Farmer,course,mother,1,2,0,no,yes,yes,no,no,yes,yes,no,4,3,2,1,1,5,2,10,11,11
+KV,M,16,City,GT3,T,4,4,Teacher,Teacher,course,mother,1,1,0,no,yes,no,no,yes,no,yes,yes,3,3,2,2,1,5,0,7,6,0
+KV,M,15,City,LE3,A,2,1,Government Service,Farmer,course,mother,4,1,3,no,no,no,no,yes,yes,yes,no,4,5,5,2,5,5,0,8,9,10
+KV,M,18,City,LE3,T,1,1,Farmer,Farmer,course,mother,1,1,3,no,no,no,no,yes,no,yes,yes,2,3,5,2,5,4,0,6,5,0
+KV,M,16,City,LE3,T,2,1,Homemaker,Farmer,course,mother,1,1,1,no,no,no,yes,yes,yes,no,yes,4,4,4,3,5,5,6,12,13,14
+KV,F,15,Village,GT3,T,3,3,Government Service,Government Service,reputation,other,2,3,2,no,yes,yes,yes,yes,yes,yes,yes,4,2,1,2,3,3,8,10,10,10
+KV,M,19,City,GT3,T,3,2,Government Service,Homemaker,home,mother,1,1,3,no,yes,no,no,yes,no,yes,yes,4,5,4,1,1,4,0,5,0,0
+KV,F,17,City,GT3,T,4,4,Farmer,Teacher,course,mother,1,1,0,yes,yes,no,no,yes,yes,no,yes,4,2,1,1,1,4,0,11,11,12
+KV,M,15,Village,GT3,T,2,3,Homemaker,Government Service,course,mother,1,2,0,yes,no,yes,yes,yes,yes,no,no,4,4,4,1,1,1,2,11,8,8
+KV,M,17,Village,LE3,T,1,2,Farmer,Farmer,reputation,mother,1,1,0,no,no,no,no,yes,yes,no,no,2,2,2,3,3,5,8,16,12,13
+KV,F,18,Village,GT3,T,1,1,Homemaker,Farmer,course,mother,3,1,3,no,yes,no,yes,no,yes,no,no,5,2,5,1,5,4,6,9,8,10
+KV,M,16,Village,GT3,T,2,2,Homemaker,Farmer,course,mother,3,1,0,no,no,no,no,no,yes,no,no,4,2,2,1,2,3,2,17,15,15
+KV,M,16,City,GT3,T,3,3,Farmer,Government Service,course,father,1,2,1,no,yes,yes,no,yes,yes,yes,yes,4,5,5,4,4,5,4,10,12,12
+KV,M,17,Village,LE3,T,2,1,Homemaker,Farmer,course,mother,2,1,2,no,no,no,yes,yes,no,yes,yes,3,3,2,2,2,5,0,7,6,0
+KV,M,15,Village,GT3,T,3,2,Farmer,Farmer,course,mother,2,2,2,yes,yes,no,no,yes,yes,yes,yes,4,4,4,1,4,3,6,5,9,7
+KV,M,16,City,LE3,T,1,2,Farmer,Farmer,course,mother,2,1,1,no,no,no,yes,yes,yes,no,no,4,4,4,2,4,5,0,7,0,0
+KV,M,17,City,GT3,T,1,3,Homemaker,Government Service,course,father,1,1,0,no,no,no,no,yes,no,yes,no,5,3,3,1,4,2,2,10,10,10
+KV,M,17,Village,LE3,T,1,1,Farmer,Government Service,course,mother,4,2,3,no,no,no,yes,yes,no,no,yes,5,3,5,1,5,5,0,5,8,7
+KV,M,16,City,GT3,T,3,2,Government Service,Government Service,course,mother,2,1,1,no,yes,no,yes,no,no,no,no,4,5,2,1,1,2,16,12,11,12
+KV,M,16,City,GT3,T,2,2,Farmer,Farmer,course,father,1,2,0,no,no,no,no,yes,no,yes,no,4,3,5,2,4,4,4,10,10,10
+KV,F,16,City,GT3,T,4,2,Doctor,Government Service,home,father,1,2,0,no,no,yes,no,yes,yes,yes,yes,4,2,3,1,1,3,0,14,15,16
+KV,F,16,City,GT3,T,2,2,Farmer,Farmer,home,mother,1,2,0,no,yes,yes,no,no,yes,yes,no,5,1,5,1,1,4,0,6,7,0
+KV,F,16,City,GT3,T,4,4,Doctor,Doctor,reputation,mother,1,2,0,no,yes,yes,no,yes,yes,yes,yes,4,4,2,1,1,3,0,14,14,14
+KV,M,16,City,GT3,T,3,4,Farmer,Farmer,course,father,3,1,2,no,yes,no,yes,no,yes,yes,no,3,4,5,2,4,2,0,6,5,0
+KV,M,16,City,GT3,T,1,0,Farmer,Farmer,reputation,mother,2,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,2,1,1,3,2,13,15,16
+KV,M,17,City,LE3,T,4,4,Teacher,Farmer,reputation,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,no,4,4,4,1,3,5,0,13,11,10
+KV,F,16,City,GT3,T,1,3,Homemaker,Government Service,home,mother,1,2,3,no,no,no,yes,no,yes,yes,yes,4,3,5,1,1,3,0,8,7,0
+KV,F,16,City,LE3,T,3,3,Farmer,Farmer,reputation,mother,2,2,0,no,yes,yes,yes,yes,yes,yes,no,4,4,5,1,1,4,4,10,11,9
+KV,M,17,City,LE3,T,4,3,Teacher,Farmer,course,mother,2,2,0,no,no,yes,yes,yes,yes,yes,no,4,4,4,4,4,4,4,10,9,9
+KV,F,16,City,GT3,T,2,2,Government Service,Farmer,reputation,mother,2,2,0,no,no,yes,yes,no,yes,yes,no,3,4,4,1,4,5,2,13,13,11
+KV,M,17,City,GT3,T,3,3,Farmer,Farmer,reputation,father,1,2,0,no,no,no,yes,no,yes,yes,no,4,3,4,1,4,4,4,6,5,6
+KV,M,16,Village,GT3,T,4,2,Teacher,Government Service,other,mother,1,1,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,3,4,3,10,10,8,9
+KV,M,17,City,GT3,T,4,3,Farmer,Farmer,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,5,2,3,1,1,2,4,10,10,11
+KV,M,16,City,GT3,T,4,3,Teacher,Farmer,home,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,no,3,4,3,2,3,3,10,9,8,8
+KV,M,16,City,GT3,T,3,3,Government Service,Farmer,home,mother,1,2,0,no,no,yes,yes,yes,yes,yes,yes,4,2,3,1,2,3,2,12,13,12
+KV,F,17,City,GT3,T,2,4,Government Service,Government Service,reputation,father,1,2,0,no,yes,no,yes,yes,yes,no,no,5,4,2,2,3,5,0,16,17,17
+KV,F,17,City,LE3,T,3,3,Farmer,Farmer,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,5,3,3,2,3,1,56,9,9,8
+KV,F,16,City,GT3,T,3,2,Farmer,Farmer,reputation,mother,1,2,0,no,yes,yes,no,yes,yes,yes,no,1,2,2,1,2,1,14,12,13,12
+KV,M,17,City,GT3,T,3,3,Government Service,Government Service,other,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,4,3,4,2,3,4,12,12,12,11
+KV,M,16,City,GT3,T,1,2,Government Service,Government Service,other,mother,1,1,0,no,yes,yes,yes,yes,yes,yes,yes,3,3,3,1,2,3,2,11,12,11
+KV,M,16,City,LE3,T,2,1,Farmer,Farmer,course,mother,1,2,0,no,no,yes,yes,yes,yes,yes,yes,4,2,3,1,2,5,0,15,15,15
+KV,F,17,City,GT3,A,3,3,Doctor,Farmer,reputation,mother,1,2,0,no,yes,no,no,no,yes,yes,yes,3,3,3,1,3,3,6,8,7,9
+KV,M,17,Village,GT3,T,1,2,Homemaker,Farmer,home,mother,1,2,0,no,no,no,no,yes,yes,no,no,3,1,3,1,5,3,4,8,9,10
+KV,F,16,City,GT3,T,2,3,Government Service,Government Service,course,mother,1,2,0,no,no,no,no,yes,yes,yes,no,4,3,3,1,1,2,10,11,12,13
+KV,F,17,City,GT3,T,1,1,Homemaker,Government Service,course,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,5,3,3,1,1,3,0,8,8,9
+KV,M,17,City,GT3,T,1,2,Homemaker,Government Service,other,other,2,2,0,no,no,yes,yes,no,yes,yes,no,4,4,4,4,5,5,12,7,8,8
+KV,M,16,Village,GT3,T,3,3,Government Service,Government Service,reputation,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,4,3,2,3,4,5,8,8,9,10
+KV,M,16,City,GT3,T,2,3,Farmer,Farmer,home,father,2,1,0,no,no,no,no,yes,yes,yes,no,5,3,3,1,1,3,0,13,14,14
+KV,F,17,City,LE3,T,2,4,Government Service,Government Service,course,father,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,3,2,1,1,5,0,14,15,15
+KV,M,17,City,GT3,T,4,4,Government Service,Teacher,home,mother,1,1,0,no,no,no,no,yes,yes,yes,no,5,2,3,1,2,5,4,17,15,16
+KV,M,16,Village,LE3,T,3,3,Teacher,Farmer,home,father,3,1,0,no,yes,yes,yes,yes,yes,yes,no,3,3,4,3,5,3,8,9,9,10
+KV,F,17,City,GT3,T,4,4,Government Service,Teacher,home,mother,2,1,1,no,yes,no,no,yes,yes,yes,no,4,2,4,2,3,2,24,18,18,18
+KV,F,16,City,LE3,T,4,4,Teacher,Teacher,reputation,mother,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,5,2,1,2,3,0,9,9,10
+KV,F,16,City,GT3,T,4,3,Doctor,Farmer,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,5,1,5,2,2,16,16,16
+KV,F,16,City,GT3,T,2,3,Farmer,Farmer,reputation,mother,1,2,0,yes,yes,yes,yes,yes,yes,no,no,4,4,3,1,3,4,6,8,10,10
+KV,F,17,City,GT3,T,1,1,Farmer,Farmer,course,mother,1,2,0,no,yes,yes,no,no,yes,no,no,4,4,4,1,3,1,4,9,9,10
+KV,F,17,Village,GT3,T,2,2,Farmer,Farmer,reputation,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,5,3,2,1,2,3,18,7,6,6
+KV,F,16,Village,GT3,T,2,2,Government Service,Government Service,reputation,mother,2,4,0,no,yes,yes,yes,no,yes,yes,no,5,3,5,1,1,5,6,10,10,11
+KV,F,17,City,GT3,T,3,4,Homemaker,Government Service,home,mother,1,3,1,no,yes,yes,no,yes,yes,yes,yes,4,4,3,3,4,5,28,10,9,9
+KV,F,16,City,GT3,A,3,1,Government Service,Farmer,course,mother,1,2,3,no,yes,yes,no,yes,yes,yes,no,2,3,3,2,2,4,5,7,7,7
+KV,F,16,City,GT3,T,4,3,Teacher,Farmer,other,mother,1,2,0,no,no,yes,yes,yes,yes,yes,yes,1,3,2,1,1,1,10,11,12,13
+KV,F,16,City,GT3,T,1,1,Homemaker,Farmer,home,mother,2,1,0,no,yes,yes,no,yes,yes,no,no,4,3,2,1,4,5,6,9,9,10
+KV,F,17,Village,GT3,T,4,3,Teacher,Farmer,reputation,mother,2,3,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,2,1,1,4,6,7,7,7
+KV,F,19,City,GT3,T,3,3,Farmer,Farmer,reputation,other,1,4,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,2,3,10,8,8,8
+KV,M,17,City,LE3,T,4,4,Government Service,Farmer,home,mother,1,2,0,no,yes,yes,no,yes,yes,yes,yes,5,3,5,4,5,3,13,12,12,13
+KV,F,16,City,GT3,A,2,2,Farmer,Farmer,reputation,mother,1,2,0,yes,yes,yes,no,yes,yes,yes,no,3,3,4,1,1,4,0,12,13,14
+KV,M,18,City,GT3,T,2,2,Government Service,Farmer,home,mother,1,2,1,no,yes,yes,yes,yes,yes,yes,no,4,4,4,2,4,5,15,6,7,8
+KV,F,17,Village,LE3,T,4,4,Government Service,Farmer,other,mother,1,1,0,no,yes,yes,no,yes,yes,no,no,5,2,1,1,2,3,12,8,10,10
+KV,F,17,City,LE3,T,3,2,Farmer,Farmer,reputation,mother,2,2,0,no,no,yes,no,yes,yes,yes,no,4,4,4,1,3,1,2,14,15,15
+KV,F,17,City,GT3,T,4,3,Farmer,Farmer,reputation,mother,1,2,2,no,no,yes,no,yes,yes,yes,yes,3,4,5,2,4,1,22,6,6,4
+KV,M,18,City,LE3,T,3,3,Government Service,Doctor,home,father,1,2,1,no,yes,yes,no,yes,yes,yes,no,3,2,4,2,4,4,13,6,6,8
+KV,F,17,City,GT3,T,2,3,Homemaker,Farmer,home,father,2,1,0,no,yes,yes,no,yes,yes,no,no,3,3,3,1,4,3,3,7,7,8
+KV,F,17,City,GT3,T,2,2,Homemaker,Homemaker,course,mother,1,3,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,1,4,4,9,10,10
+KV,F,17,Village,GT3,T,2,1,Homemaker,Government Service,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,2,5,1,2,5,2,6,6,6
+KV,F,17,City,GT3,T,1,1,Homemaker,Farmer,reputation,mother,1,3,1,no,yes,no,yes,yes,yes,no,yes,4,3,4,1,1,5,0,6,5,0
+KV,F,16,City,GT3,T,2,3,Government Service,Teacher,other,mother,1,2,0,yes,no,no,no,yes,yes,yes,no,2,3,1,1,1,3,2,16,16,17
+KV,M,18,City,GT3,T,2,2,Farmer,Farmer,home,mother,2,2,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,5,5,4,0,12,13,13
+KV,F,16,City,GT3,T,4,4,Teacher,Government Service,home,mother,1,3,0,no,yes,no,yes,no,yes,yes,no,5,3,2,1,1,5,0,13,13,14
+KV,F,18,Village,GT3,T,3,1,Farmer,Farmer,reputation,mother,1,2,1,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,1,4,16,9,8,7
+KV,F,17,City,GT3,T,3,2,Farmer,Farmer,course,mother,1,2,0,no,no,no,yes,no,yes,yes,no,5,3,4,1,3,3,10,16,15,15
+KV,M,17,City,LE3,T,2,3,Government Service,Government Service,reputation,father,1,2,0,no,yes,yes,no,no,yes,yes,no,5,3,3,1,3,3,2,12,11,12
+KV,M,18,City,LE3,T,2,1,Homemaker,Farmer,course,mother,4,2,0,yes,yes,yes,yes,yes,yes,yes,yes,4,3,2,4,5,3,14,10,8,9
+KV,F,17,City,GT3,A,2,1,Farmer,Farmer,course,mother,2,3,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,1,2,3,10,12,10,12
+KV,F,17,City,LE3,T,4,3,Doctor,Farmer,reputation,father,1,2,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,1,2,3,14,13,13,14
+KV,M,17,Village,GT3,T,2,2,Farmer,Farmer,course,father,2,2,0,no,yes,yes,yes,yes,yes,yes,no,4,5,2,1,1,1,4,11,11,11
+KV,M,17,City,GT3,T,4,4,Teacher,Teacher,reputation,mother,1,2,0,yes,yes,no,yes,yes,yes,yes,yes,4,5,5,1,3,2,14,11,9,9
+KV,M,16,City,GT3,T,4,4,Doctor,Farmer,reputation,father,1,2,0,no,yes,yes,yes,yes,yes,yes,no,4,2,4,2,4,1,2,14,13,13
+KV,M,16,City,LE3,T,1,1,Farmer,Farmer,home,mother,2,2,0,no,yes,yes,no,yes,yes,yes,no,3,4,2,1,1,5,18,9,7,6
+KV,M,16,City,GT3,T,3,2,Homemaker,Farmer,reputation,mother,2,3,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,3,2,10,11,9,10
+KV,M,17,City,LE3,T,2,2,Farmer,Farmer,home,father,1,2,0,no,no,yes,yes,no,yes,yes,yes,4,4,2,5,5,4,4,14,13,13
+KV,F,16,City,GT3,T,2,1,Farmer,Farmer,home,mother,1,1,0,no,no,no,no,yes,yes,yes,yes,4,5,2,1,1,5,20,13,12,12
+KV,F,17,Village,GT3,T,2,1,Homemaker,Government Service,course,mother,3,2,0,no,no,no,yes,yes,yes,no,no,2,1,1,1,1,3,2,13,11,11
+KV,M,18,City,GT3,T,2,2,Farmer,Government Service,reputation,father,1,2,1,no,no,no,no,yes,no,yes,no,5,5,4,3,5,2,0,7,7,0
+KV,M,17,City,LE3,T,4,3,Doctor,Farmer,course,mother,2,2,0,no,no,no,yes,yes,yes,yes,yes,2,5,5,1,4,5,14,12,12,12
+KV,M,17,Village,LE3,A,4,4,Teacher,Farmer,course,mother,2,2,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,2,3,4,2,10,11,12
+KV,M,16,City,LE3,T,4,3,Teacher,Farmer,course,mother,1,1,0,no,no,no,yes,no,yes,yes,no,5,4,5,1,1,3,0,6,0,0
+KV,M,16,City,GT3,T,4,4,Government Service,Government Service,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,5,3,2,1,2,5,0,13,12,12
+KV,F,18,City,GT3,T,2,1,Farmer,Farmer,course,other,2,3,0,no,yes,yes,no,no,yes,yes,yes,4,4,4,1,1,3,0,7,0,0
+KV,M,16,City,GT3,T,2,1,Farmer,Farmer,course,mother,3,1,0,no,no,no,no,yes,yes,yes,no,4,3,3,1,1,4,6,18,18,18
+KV,M,17,City,GT3,T,2,3,Farmer,Farmer,course,father,2,1,0,no,no,no,no,yes,yes,yes,no,5,2,2,1,1,2,4,12,12,13
+KV,M,22,City,GT3,T,3,1,Government Service,Government Service,other,mother,1,1,3,no,no,no,no,no,no,yes,yes,5,4,5,5,5,1,16,6,8,8
+KV,M,18,Village,LE3,T,3,3,Farmer,Government Service,course,mother,1,2,1,no,yes,no,no,yes,yes,yes,yes,4,3,3,1,3,5,8,3,5,5
+KV,M,16,City,GT3,T,0,2,Farmer,Farmer,other,mother,1,1,0,no,no,yes,no,no,yes,yes,no,4,3,2,2,4,5,0,13,15,15
+KV,M,18,City,GT3,T,3,2,Government Service,Farmer,course,mother,2,1,1,no,no,no,no,yes,no,yes,no,4,4,5,2,4,5,0,6,8,8
+KV,M,16,City,GT3,T,3,3,Homemaker,Farmer,reputation,other,3,2,0,yes,yes,no,no,no,yes,yes,no,5,3,3,1,3,2,6,7,10,10
+KV,M,18,City,GT3,T,2,1,Government Service,Government Service,other,mother,1,1,1,no,no,no,no,no,no,yes,no,3,2,5,2,5,5,4,6,9,8
+KV,M,16,Village,GT3,T,2,1,Farmer,Farmer,course,mother,2,1,0,no,no,no,yes,no,yes,no,no,3,3,2,1,3,3,0,8,9,8
+KV,M,17,Village,GT3,T,2,1,Farmer,Farmer,course,mother,1,1,0,no,no,no,no,no,yes,yes,no,4,4,2,2,4,5,0,8,12,12
+KV,M,17,City,LE3,T,1,1,Doctor,Farmer,course,mother,2,1,1,no,yes,no,yes,yes,yes,yes,no,4,4,4,1,2,5,2,7,9,8
+KV,F,17,City,LE3,T,4,2,Teacher,Government Service,reputation,mother,1,4,0,no,yes,yes,yes,yes,yes,yes,no,4,2,3,1,1,4,6,14,12,13
+KV,M,19,City,LE3,A,4,3,Government Service,Homemaker,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,4,3,1,1,1,1,12,11,11,11
+KV,M,18,City,GT3,T,2,1,Farmer,Farmer,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,5,2,4,1,2,4,8,15,14,14
+KV,F,17,City,LE3,T,2,2,Government Service,Government Service,course,father,1,4,0,no,no,yes,yes,yes,yes,yes,yes,3,4,1,1,1,2,0,10,9,0
+KV,F,18,City,GT3,T,4,3,Government Service,Farmer,home,father,1,2,0,no,yes,yes,no,yes,yes,yes,yes,3,1,2,1,3,2,21,17,18,18
+KV,M,18,City,GT3,T,4,3,Teacher,Farmer,course,mother,1,2,0,no,yes,yes,no,no,yes,yes,no,4,3,2,1,1,3,2,8,8,8
+KV,M,18,Village,GT3,T,3,2,Farmer,Farmer,course,mother,1,3,0,no,no,no,yes,no,yes,no,no,5,3,2,1,1,3,1,13,12,12
+KV,F,17,City,GT3,T,3,3,Farmer,Farmer,home,mother,1,3,0,no,no,no,yes,no,yes,no,no,3,2,3,1,1,4,4,10,9,9
+KV,F,18,City,GT3,T,2,2,Homemaker,Government Service,home,mother,1,3,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,3,1,1,3,0,9,10,0
+KV,M,18,Village,LE3,A,3,4,Farmer,Farmer,reputation,mother,2,2,0,no,yes,yes,yes,yes,yes,yes,no,4,2,5,3,4,1,13,17,17,17
+KV,M,17,City,GT3,T,3,1,Government Service,Farmer,other,mother,1,2,0,no,no,yes,yes,yes,yes,yes,yes,5,4,4,3,4,5,2,9,9,10
+KV,F,18,Village,GT3,T,4,4,Teacher,Farmer,reputation,mother,2,2,0,no,no,yes,yes,yes,yes,yes,no,4,3,4,2,2,4,8,12,10,11
+KV,M,18,City,GT3,T,4,2,Doctor,Farmer,reputation,father,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,5,4,5,1,3,5,10,10,9,10
+KV,F,18,Village,GT3,T,2,1,Farmer,Farmer,reputation,mother,2,2,0,no,yes,no,no,yes,no,yes,yes,4,3,5,1,2,3,0,6,0,0
+KV,F,19,City,GT3,T,3,3,Farmer,Government Service,home,other,1,2,2,no,yes,yes,yes,yes,yes,yes,no,4,3,5,3,3,5,15,9,9,9
+KV,F,18,City,GT3,T,2,3,Farmer,Government Service,reputation,father,1,4,0,no,yes,yes,yes,yes,yes,yes,yes,4,5,5,1,3,2,4,15,14,14
+KV,F,18,City,LE3,T,1,1,Farmer,Farmer,home,mother,2,2,0,no,yes,yes,no,no,yes,no,no,4,4,3,1,1,3,2,11,11,11
+KV,M,17,Village,GT3,T,1,2,Homemaker,Homemaker,home,mother,1,2,0,no,yes,yes,yes,no,yes,no,yes,3,5,2,2,2,1,2,15,14,14
+KV,F,17,City,GT3,T,2,4,Homemaker,Doctor,reputation,mother,2,2,0,no,yes,yes,no,yes,yes,yes,yes,4,3,3,1,1,1,2,10,10,10
+KV,F,17,City,LE3,T,2,2,Government Service,Farmer,course,mother,2,2,0,yes,yes,yes,no,yes,yes,yes,yes,4,4,4,2,3,5,6,12,12,12
+KV,F,18,Village,GT3,A,3,2,Farmer,Government Service,home,mother,2,2,0,no,no,no,no,no,no,yes,yes,4,1,1,1,1,5,75,10,9,9
+KV,M,18,City,GT3,T,4,4,Teacher,Government Service,home,mother,2,1,0,no,no,yes,yes,yes,yes,yes,no,3,2,4,1,4,3,22,9,9,9
+KV,F,18,City,GT3,T,4,4,Doctor,Doctor,reputation,father,1,2,1,yes,yes,no,yes,yes,yes,yes,yes,2,4,4,1,1,4,15,9,8,8
+KV,M,18,City,LE3,T,4,3,Teacher,Government Service,course,mother,2,1,0,no,no,yes,yes,yes,yes,yes,no,4,2,3,1,2,1,8,10,11,10
+KV,M,17,City,LE3,A,4,1,Government Service,Farmer,home,mother,2,1,0,no,no,yes,yes,yes,yes,yes,yes,4,5,4,2,4,5,30,8,8,8
+KV,M,17,City,LE3,A,3,2,Teacher,Government Service,home,mother,1,1,1,no,no,no,no,yes,yes,yes,no,4,4,4,3,4,3,19,11,9,10
+KV,F,18,Village,LE3,T,1,1,Homemaker,Farmer,reputation,mother,2,4,0,no,yes,yes,yes,yes,yes,no,no,5,2,2,1,1,3,1,12,12,12
+KV,F,18,City,GT3,T,1,1,Farmer,Farmer,home,mother,2,2,0,yes,no,no,yes,yes,yes,yes,no,5,4,4,1,1,4,4,8,9,10
+KV,F,17,City,GT3,T,2,2,Farmer,Farmer,course,mother,1,2,0,no,yes,no,no,no,yes,yes,no,5,4,5,1,2,5,4,10,9,11
+KV,M,17,City,GT3,T,1,1,Farmer,Farmer,reputation,father,1,2,0,no,no,yes,no,no,yes,yes,no,4,3,3,1,2,4,2,12,10,11
+KV,F,18,City,GT3,T,2,2,Homemaker,Homemaker,other,mother,1,3,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,2,2,5,18,18,19
+KV,F,17,City,GT3,T,1,1,Government Service,Teacher,reputation,mother,1,3,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,3,6,13,12,12
+KV,M,18,City,GT3,T,2,1,Government Service,Government Service,reputation,mother,1,3,0,no,no,yes,yes,yes,yes,yes,no,4,2,4,1,3,2,6,15,14,14
+KV,M,18,City,LE3,A,4,4,Teacher,Teacher,reputation,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,no,5,4,3,1,1,2,9,15,13,15
+KV,M,18,City,GT3,T,4,2,Teacher,Farmer,home,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,2,1,4,5,11,12,11,11
+KV,F,17,City,GT3,T,4,3,Doctor,Government Service,reputation,mother,1,3,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,1,2,3,0,15,15,15
+KV,F,18,City,LE3,T,2,1,Government Service,Homemaker,reputation,mother,1,2,1,no,no,no,no,yes,yes,yes,yes,5,4,3,1,1,5,12,12,12,13
+KV,F,17,Village,LE3,T,3,1,Government Service,Farmer,reputation,mother,2,4,0,no,yes,yes,no,yes,yes,no,no,3,1,2,1,1,3,6,18,18,18
+KV,M,18,Village,LE3,T,3,2,Government Service,Farmer,reputation,mother,2,3,0,no,yes,yes,yes,yes,yes,yes,no,5,4,2,1,1,4,8,14,13,14
+KV,M,17,City,GT3,T,3,3,Doctor,Farmer,home,mother,1,1,0,no,yes,yes,no,yes,yes,yes,no,4,4,3,1,3,5,4,14,12,11
+KV,F,19,City,GT3,T,4,4,Doctor,Farmer,reputation,other,2,2,0,no,yes,yes,yes,yes,yes,yes,no,2,3,4,2,3,2,0,10,9,0
+KV,F,18,City,LE3,T,4,3,Farmer,Farmer,home,other,2,2,0,no,yes,yes,no,yes,yes,yes,yes,4,4,5,1,2,2,10,10,8,8
+KV,F,18,City,GT3,T,4,3,Farmer,Farmer,reputation,father,1,4,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,3,0,14,13,14
+KV,M,18,City,LE3,T,4,4,Teacher,Teacher,home,mother,1,1,0,no,yes,yes,no,yes,yes,yes,yes,1,4,2,2,2,1,5,16,15,16
+KV,F,18,City,LE3,A,4,4,Doctor,Farmer,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,2,4,1,1,4,14,12,10,11
+KV,M,17,City,LE3,T,4,4,Farmer,Teacher,home,father,2,1,0,no,no,yes,no,yes,yes,yes,no,4,1,1,2,2,5,0,11,11,10
+KV,F,17,City,GT3,T,4,2,Farmer,Farmer,reputation,mother,2,3,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,3,0,15,12,14
+KV,F,17,City,GT3,T,3,2,Doctor,Doctor,reputation,father,1,4,0,no,yes,yes,yes,no,yes,yes,no,5,2,2,1,2,5,0,17,17,18
+KV,M,19,City,GT3,T,3,3,Farmer,Farmer,home,other,1,2,1,no,yes,no,yes,yes,yes,yes,yes,4,4,4,1,1,3,20,15,14,13
+KV,F,18,City,GT3,T,2,4,Government Service,Homemaker,reputation,other,1,2,1,no,yes,yes,yes,yes,yes,yes,no,4,4,3,1,1,3,8,14,12,12
+KV,M,20,City,GT3,A,3,2,Government Service,Farmer,course,other,1,1,0,no,no,no,yes,yes,yes,no,no,5,5,3,1,1,5,0,17,18,18
+KV,M,19,City,GT3,T,4,4,Teacher,Government Service,reputation,other,2,1,1,no,yes,yes,no,yes,yes,yes,yes,4,3,4,1,1,4,38,8,9,8
+KV,M,19,Village,GT3,T,3,3,Farmer,Government Service,reputation,father,1,2,1,no,no,no,yes,yes,yes,no,yes,4,5,3,1,2,5,0,15,12,12
+KV,F,19,City,LE3,T,1,1,Homemaker,Farmer,reputation,other,1,2,1,yes,yes,no,yes,no,yes,yes,no,4,4,3,1,3,3,18,12,10,10
+KV,F,19,City,LE3,T,1,2,Government Service,Government Service,home,other,1,2,1,no,no,no,yes,no,yes,no,yes,4,2,4,2,2,3,0,9,9,0
+KV,F,19,City,GT3,T,2,1,Homemaker,Farmer,other,other,3,2,0,no,yes,no,no,yes,no,yes,yes,3,4,1,1,1,2,20,14,12,13
+KV,M,19,City,GT3,T,1,2,Farmer,Government Service,course,other,1,2,1,no,no,no,no,no,yes,yes,no,4,5,2,2,2,4,3,13,11,11
+KV,F,19,City,LE3,T,3,2,Government Service,Farmer,reputation,other,2,2,1,no,yes,yes,no,no,yes,yes,yes,4,2,2,1,2,1,22,13,10,11
+KV,F,19,City,GT3,T,1,1,Homemaker,Doctor,home,other,1,3,2,no,no,no,no,no,yes,yes,yes,4,1,2,1,1,3,14,15,13,13
+KV,F,19,Village,GT3,T,2,3,Farmer,Farmer,reputation,other,1,3,1,no,no,no,no,yes,yes,yes,yes,4,1,2,1,1,3,40,13,11,11
+KV,F,18,City,GT3,T,2,1,Government Service,Farmer,course,mother,2,2,0,no,yes,yes,yes,yes,yes,yes,no,5,3,3,1,2,1,0,8,8,0
+KV,F,18,City,GT3,T,4,3,Farmer,Farmer,course,mother,1,3,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,4,1,1,5,9,9,10,9
+KV,F,17,Village,GT3,T,3,4,Homemaker,Government Service,course,father,1,3,0,no,yes,yes,yes,no,yes,yes,no,4,3,4,2,5,5,0,11,11,10
+KV,F,18,City,GT3,T,4,4,Teacher,Farmer,course,mother,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,4,4,3,3,5,2,11,11,11
+KV,F,17,City,GT3,A,4,3,Government Service,Government Service,course,mother,1,2,0,no,yes,yes,no,yes,yes,yes,yes,5,2,2,1,2,5,23,13,13,13
+KV,F,17,City,GT3,T,2,2,Farmer,Farmer,course,mother,1,2,0,no,yes,no,no,yes,yes,no,yes,4,2,2,1,1,3,12,11,9,9
+KV,F,17,Village,LE3,T,2,2,Government Service,Government Service,course,mother,1,3,0,no,yes,yes,yes,yes,yes,yes,no,3,3,2,2,2,3,3,11,11,11
+KV,F,17,City,GT3,T,3,1,Government Service,Government Service,course,father,1,3,0,no,yes,no,no,no,yes,yes,no,3,4,3,2,3,5,1,12,14,15
+KV,F,17,City,LE3,T,0,2,Homemaker,Homemaker,home,father,2,3,0,no,no,no,no,yes,yes,yes,no,3,3,3,2,3,2,0,16,15,15
+KV,M,18,City,GT3,T,4,4,Farmer,Farmer,course,mother,1,3,0,no,no,no,yes,yes,yes,yes,no,4,3,3,2,2,3,3,9,12,11
+KV,M,17,City,GT3,T,3,3,Farmer,Government Service,reputation,mother,1,1,0,no,no,no,yes,no,yes,yes,no,4,3,5,3,5,5,3,14,15,16
+KV,M,17,Village,GT3,T,2,2,Government Service,Farmer,course,mother,4,1,0,no,yes,no,no,yes,yes,yes,no,4,4,5,5,5,4,8,11,10,10
+KV,F,17,City,GT3,T,4,4,Teacher,Government Service,course,mother,1,3,0,no,yes,yes,yes,yes,yes,yes,no,5,4,4,1,3,4,7,10,9,9
+KV,F,17,City,GT3,T,4,4,Teacher,Teacher,course,mother,2,3,0,no,yes,yes,no,no,yes,yes,yes,4,3,3,1,2,4,4,14,14,14
+KV,M,18,City,LE3,T,2,2,Farmer,Farmer,course,mother,1,4,0,no,yes,no,yes,yes,yes,yes,no,4,5,5,2,4,5,2,9,8,8
+KV,F,17,Village,GT3,T,2,4,Homemaker,Farmer,course,father,1,3,0,no,yes,no,no,yes,yes,yes,yes,4,4,3,1,1,5,7,12,14,14
+KV,F,18,City,GT3,T,3,3,Government Service,Government Service,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,5,3,4,1,1,4,0,7,0,0
+KV,F,18,City,LE3,T,2,2,Farmer,Farmer,home,other,1,2,0,no,no,no,yes,no,yes,yes,yes,4,3,3,1,1,2,0,8,8,0
+KV,F,18,Village,GT3,T,2,2,Homemaker,Farmer,course,mother,2,4,0,no,no,no,yes,yes,yes,no,no,4,4,4,1,1,4,0,10,9,0
+KV,F,17,City,GT3,T,3,4,Government Service,Farmer,course,mother,1,3,0,no,no,no,no,yes,yes,yes,no,4,4,5,1,3,5,16,16,15,15
+KV,F,19,Village,GT3,A,3,1,Government Service,Homemaker,home,other,1,3,1,no,no,yes,no,yes,yes,no,no,5,4,3,1,2,5,12,14,13,13
+KV,F,17,City,GT3,T,3,2,Farmer,Farmer,home,mother,1,2,0,no,yes,yes,no,yes,yes,yes,yes,4,3,2,2,3,2,0,7,8,0
+KV,F,18,City,LE3,T,3,3,Government Service,Government Service,home,mother,1,4,0,no,yes,no,no,yes,yes,yes,no,5,3,3,1,1,1,7,16,15,17
+KV,F,17,Village,GT3,A,3,2,Farmer,Farmer,home,mother,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,2,3,2,4,9,10,10
+KV,F,19,City,GT3,T,2,1,Government Service,Government Service,home,other,1,3,1,no,no,yes,yes,yes,yes,yes,yes,4,3,4,1,3,3,4,11,12,11
+KV,M,18,City,GT3,T,4,4,Teacher,Government Service,home,father,1,2,1,no,yes,no,yes,yes,yes,yes,no,4,3,3,2,2,2,0,10,10,0
+KV,M,18,City,LE3,T,3,4,Government Service,Farmer,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,3,3,1,3,5,11,16,15,15
+KV,F,17,City,GT3,A,2,2,Homemaker,Homemaker,home,father,1,2,1,no,yes,no,no,yes,yes,yes,yes,3,3,1,1,2,4,0,9,8,0
+KV,F,18,City,GT3,T,2,3,Homemaker,Farmer,course,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,2,3,4,11,10,10
+KV,F,18,City,GT3,T,3,2,Farmer,Government Service,other,mother,1,3,0,no,no,no,no,yes,yes,yes,yes,5,4,3,2,3,1,7,13,13,14
+KV,M,18,Village,GT3,T,4,3,Teacher,Government Service,course,mother,1,3,0,no,no,no,no,yes,yes,yes,yes,5,3,2,1,2,4,9,16,15,16
+KV,M,18,City,GT3,T,4,3,Teacher,Farmer,course,mother,1,3,0,no,yes,yes,no,yes,yes,yes,yes,5,4,5,2,3,5,0,10,10,9
+KV,F,17,City,GT3,T,4,3,Doctor,Farmer,reputation,mother,1,3,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,3,1,3,4,0,13,15,15
+DPS,M,18,Village,GT3,T,3,2,Farmer,Farmer,course,mother,2,1,1,no,yes,no,no,no,yes,yes,no,2,5,5,5,5,5,10,11,13,13
+DPS,M,19,Village,GT3,T,1,1,Farmer,Government Service,home,other,3,2,3,no,no,no,no,yes,yes,yes,no,5,4,4,3,3,2,8,8,7,8
+DPS,M,17,City,GT3,T,3,3,Doctor,Farmer,course,mother,2,2,0,no,yes,yes,no,yes,yes,yes,no,4,5,4,2,3,3,2,13,13,13
+DPS,M,18,City,LE3,T,1,3,Homemaker,Government Service,course,mother,1,1,1,no,no,no,no,yes,no,yes,yes,4,3,3,2,3,3,7,8,7,8
+DPS,M,19,Village,GT3,T,1,1,Farmer,Farmer,home,other,3,1,1,no,yes,no,no,yes,yes,yes,no,4,4,4,3,3,5,4,8,8,8
+DPS,M,17,Village,GT3,T,4,3,Government Service,Farmer,home,mother,2,2,0,no,yes,yes,yes,no,yes,yes,yes,4,5,5,1,3,2,4,13,11,11
+DPS,F,18,City,GT3,T,3,3,Government Service,Government Service,course,father,1,2,0,no,yes,no,no,yes,yes,no,yes,5,3,4,1,1,5,0,10,9,9
+DPS,F,17,Village,GT3,T,4,4,Teacher,Government Service,other,father,2,2,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,2,5,4,12,13,13
+DPS,F,17,City,LE3,A,3,2,Government Service,Farmer,reputation,mother,2,2,0,no,no,no,no,yes,yes,no,yes,1,2,3,1,2,5,2,12,12,11
+DPS,M,18,City,LE3,T,1,1,Farmer,Government Service,home,father,2,1,0,no,no,no,no,no,yes,yes,yes,3,3,2,1,2,3,4,10,10,10
+DPS,F,18,City,LE3,T,1,1,Homemaker,Government Service,course,father,2,3,0,no,no,no,no,yes,yes,yes,no,5,3,2,1,1,4,0,18,16,16
+DPS,F,18,Village,LE3,A,1,4,Homemaker,Farmer,course,mother,3,2,0,no,no,no,no,yes,yes,no,yes,4,3,4,1,4,5,0,13,13,13
+DPS,M,18,Village,LE3,T,1,1,Homemaker,Farmer,other,mother,2,2,1,no,no,no,yes,no,no,no,no,4,4,3,2,3,5,2,13,12,12
+DPS,F,18,City,GT3,T,3,3,Government Service,Government Service,other,mother,2,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,2,1,3,3,0,11,11,10
+DPS,F,17,City,LE3,T,4,4,Homemaker,Homemaker,course,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,2,3,4,1,1,1,0,16,15,15
+DPS,F,17,Village,GT3,T,1,2,Farmer,Government Service,course,father,2,2,0,no,no,no,no,no,yes,no,no,3,2,2,1,2,3,0,12,11,12
+DPS,M,18,Village,GT3,T,1,3,Homemaker,Farmer,course,mother,2,2,0,no,yes,yes,no,yes,yes,no,no,3,3,4,2,4,3,4,10,10,10
+DPS,M,18,City,LE3,T,4,4,Teacher,Government Service,other,mother,2,3,0,no,no,yes,no,yes,yes,yes,yes,4,2,2,2,2,5,0,13,13,13
+DPS,F,17,Village,GT3,T,1,1,Farmer,Government Service,reputation,mother,3,1,1,no,yes,yes,no,yes,yes,yes,yes,5,2,1,1,2,1,0,7,6,0
+DPS,F,18,City,GT3,T,2,3,Homemaker,Government Service,course,father,2,1,0,no,yes,yes,no,yes,yes,yes,yes,5,2,3,1,2,4,0,11,10,10
+DPS,F,18,Village,GT3,T,4,4,Farmer,Teacher,other,father,3,2,0,no,yes,yes,no,no,yes,yes,yes,3,2,2,4,2,5,10,14,12,11
+DPS,F,19,City,LE3,T,3,2,Government Service,Government Service,home,other,2,2,2,no,no,no,yes,yes,yes,no,yes,3,2,2,1,1,3,4,7,7,9
+DPS,M,18,Village,LE3,T,1,2,Homemaker,Government Service,other,father,3,1,0,no,yes,yes,yes,yes,no,yes,yes,4,3,3,2,3,3,3,14,12,12
+DPS,F,17,City,GT3,T,2,2,Farmer,Homemaker,home,mother,1,3,0,no,no,no,yes,yes,yes,no,yes,3,4,3,1,1,3,8,13,11,11
+DPS,F,17,Village,GT3,T,1,2,Farmer,Farmer,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,3,5,5,1,3,1,14,6,5,5
+DPS,F,18,Village,LE3,T,4,4,Farmer,Farmer,reputation,mother,2,3,0,no,no,no,no,yes,yes,yes,no,5,4,4,1,1,1,0,19,18,19
+DPS,F,18,Village,GT3,T,1,1,Farmer,Farmer,home,mother,4,3,0,no,no,no,no,yes,yes,yes,no,4,3,2,1,2,4,2,8,8,10
+DPS,F,20,City,GT3,T,4,2,Doctor,Farmer,course,other,2,3,2,no,yes,yes,no,no,yes,yes,yes,5,4,3,1,1,3,4,15,14,15
+DPS,F,18,Village,LE3,T,4,4,Teacher,Government Service,course,mother,1,2,0,no,no,yes,yes,yes,yes,yes,no,5,4,3,3,4,2,4,8,9,10
+DPS,F,18,City,GT3,T,3,3,Farmer,Farmer,home,mother,1,2,0,no,no,yes,no,yes,yes,yes,yes,4,1,3,1,2,1,0,15,15,15
+DPS,F,17,Village,GT3,T,3,1,Homemaker,Farmer,reputation,mother,1,2,0,no,yes,yes,yes,no,yes,yes,no,4,5,4,2,3,1,17,10,10,10
+DPS,M,18,City,GT3,T,4,4,Teacher,Teacher,home,father,1,2,0,no,no,yes,yes,no,yes,yes,no,3,2,4,1,4,2,4,15,14,14
+DPS,M,18,Village,GT3,T,2,1,Farmer,Farmer,other,mother,2,1,0,no,no,no,yes,no,yes,yes,yes,4,4,3,1,3,5,5,7,6,7
+DPS,M,17,City,GT3,T,2,3,Farmer,Government Service,home,father,2,2,0,no,no,no,yes,yes,yes,yes,no,4,4,3,1,1,3,2,11,11,10
+DPS,M,19,Village,GT3,T,1,1,Farmer,Government Service,other,mother,2,1,1,no,no,no,no,yes,yes,no,no,4,3,2,1,3,5,0,6,5,0
+DPS,M,18,Village,GT3,T,4,2,Farmer,Farmer,home,father,2,1,1,no,no,yes,no,yes,yes,no,no,5,4,3,4,3,3,14,6,5,5
+DPS,F,18,Village,GT3,T,2,2,Homemaker,Farmer,other,mother,2,3,0,no,no,yes,no,yes,yes,no,no,5,3,3,1,3,4,2,10,9,10
+DPS,F,18,Village,GT3,T,4,4,Teacher,Homemaker,reputation,mother,3,1,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,3,2,2,5,7,6,5,6
+DPS,F,19,Village,GT3,T,2,3,Government Service,Farmer,course,mother,1,3,1,no,no,no,yes,no,yes,yes,no,5,4,2,1,2,5,0,7,5,0
+DPS,F,18,City,LE3,T,3,1,Teacher,Government Service,course,mother,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,3,4,1,1,1,0,7,9,8
+DPS,F,18,City,GT3,T,1,1,Farmer,Farmer,course,mother,2,2,1,no,no,no,yes,yes,yes,no,no,1,1,1,1,1,5,0,6,5,0
+DPS,M,20,City,LE3,A,2,2,Government Service,Government Service,course,other,1,2,2,no,yes,yes,no,yes,yes,no,no,5,5,4,4,5,4,11,9,9,9
+DPS,M,17,City,LE3,T,3,1,Government Service,Government Service,course,mother,2,1,0,no,no,no,no,no,yes,yes,no,2,4,5,3,4,2,3,14,16,16
+DPS,M,21,Village,GT3,T,1,1,Farmer,Farmer,course,other,1,1,3,no,no,no,no,no,yes,no,no,5,5,3,3,3,3,3,10,8,7
+DPS,M,18,Village,LE3,T,3,2,Government Service,Farmer,course,mother,3,1,0,no,no,no,no,no,yes,yes,no,4,4,1,3,4,5,0,11,12,10
+DPS,M,19,City,LE3,T,1,1,Farmer,Homemaker,course,father,1,1,0,no,no,no,no,yes,yes,yes,no,3,2,3,3,3,5,5,8,9,9
